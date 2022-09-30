@@ -1,0 +1,153 @@
+/* body{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box; 
+   
+}
+.loginf{
+    width: 300px;
+    padding: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+}
+.loginf h1{
+   margin-bottom: 30px;
+    color:#fff;
+    font-size:30px;
+}
+.loginf .addcar h1{
+    margin-bottom: 10px;
+    color:#fff;
+    font-size:20px;
+}
+.txt{
+    display: block;
+    width: 100%;
+    padding: 0 15px;
+    height: 44px;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+}
+.txt3{
+    display: block;
+    width: 100%;
+    padding: 0 15px;
+    height: 44px;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+}
+.txt2{
+    display: block;
+    width: 100%;
+    padding: 0 10px;
+    height: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+}
+select{
+    display: block;
+    width: 100%;
+    padding: 0 15px;
+    height: 44px;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+    margin: 20px 0;
+    border-radius: 9px;
+    
+}
+input:focus{
+   border-radius: 25px;
+    color: rgb(100, 62, 216);
+    border-color:#538fef;  
+}
+select:focus{
+    border-radius: 25px;
+     color: rgb(100, 62, 216);
+     border-color:#538fef;  
+ }
+.txt{
+    margin: 20px 0;
+    border-radius: 15px;
+}
+.txt2{
+    margin: 15px 0;
+    border-radius: 10px;
+}
+.loginf a{
+    color: #fff;
+    font-size: 20px;
+}
+label{
+    color:#fff;
+    font-size: 20px;
+}
+.kaydet{
+    
+   height: 15px;
+   width: 15px;
+   border-radius: 5px;
+   color: #fff;
+}
+.register-btn{
+    width: 100%;
+    height: 44px;
+    padding: 0 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+    background-color: #538fef;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: 0.8s;
+    display:block;   
+}
+.register-btn:hover{
+transform: scale(0.95);
+background: #fff;
+color:#538fef ;
+}
+
+a{
+    
+    display: block;
+}
+.loginf a:hover{
+    transform: scale(0.95);
+    background: #fff;
+    color:#538fef ;
+    border: none;
+border-radius: 10px;
+
+    }
+.login-btn{
+    width: 100%;
+    height: 44px;
+    padding: 0 15px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    border-radius: 40px;
+    background-color: #538fef;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: 0.8s;
+    display:block; 
+}
+.login-btn:hover{
+    transform: scale(0.95);
+    background: #fff;
+    color:#538fef ;
+    }
+ */
